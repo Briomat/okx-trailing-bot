@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos
+.env
+.env.*
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Permitir subir archivo de ejemplo
+!.env.example
